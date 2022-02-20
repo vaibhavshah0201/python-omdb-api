@@ -7,6 +7,7 @@ class Omdb:
         self.param_keys = {
             'title' : 't',
             'id' : 'i',
+            'year': 'y'
         }        
 
     def get_param_keys(self):
